@@ -1,0 +1,21 @@
+~open Blender.
+~create a new Genral file.
+~remove the preexisting cube with key A(to select all) and then press X and hit enter to delete all.
+~press NUM1 for front view and press Shift+A and select Mesh and then select a cube.
+~Now Press  tab to enter in edit mode and then press G to move the cube(Using X,Y,Z keys to move along their respective axis).
+~press S to resize the cube.
+~Using Ctrl+R cut the loops into two parts.
+~now select one face and using E button extrude.
+~similarlly select one upper face and extrude it. then extrude another upper face and then select its 2 vertices and using G button change its position to make a shelter type shape.
+~Extrude corner of the shelter and adjust them.
+~Press Shift+A to add a new cube and place it on the wall and then make a window using that cube. 
+~Select that window and press shift+D to make a copy of selected area  and place it another face to make a side window.
+~Press Shift+A to add a new cylinder to make a pillar.
+~Press Shift+A to add a new cube and place it into front to make a boundary.
+~Using Extrude make comlete boundary.
+color:
+~select faces which have to color and then go to material properties take a new materail and then go to viewport display option to adjust the color for material then select the color   
+    and click on the assign button.
+~similarly fill the whole house with the color
+
+This is the SCREENSHOT of final outcome of the blender blender project.
